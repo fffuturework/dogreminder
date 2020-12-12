@@ -27,9 +27,10 @@
 ![03](https://fffuture.work/dogreminder/images/03.png)
 
 # はじめかた
-下記のQRコードを携帯電話で読み込むか　もしくは　[こちらのリンク](https://freddiefujiwara.com/jpy_minimize_your_change/) にアクセスしてください
 
-![QRCode](https://freddiefujiwara.com/Osaifu-Minimalist/images/IMG_8695.jpg)
+"あなた"と"あいて"両方 Dog reminder　とLINEで友達になってください
+
+![QRCode](https://qr-official.line.me/sid/L/712korsz.png)
 
 具体的には下記の動画を御覧ください
 
