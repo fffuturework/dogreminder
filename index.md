@@ -69,4 +69,4 @@
 
 # ライセンス
 
-[MIT License](https://github.com/freddiefujiwara/jpy_minimize_your_change/blob/main/LICENSE)
+[MIT License](https://github.com/fffuturework/dogreminder/blob/main/LICENSE)
