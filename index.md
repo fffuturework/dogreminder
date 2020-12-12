@@ -40,10 +40,14 @@
 
 # リマインダーをつくり、あいことばを'あいて'におくりましょう
 
+![05](https://fffuture.work/dogreminder/images/05.png)
+
 ![Demo02](https://fffuture.work/dogreminder/images/demo02.gif)
 
 
 # あいてに、あいことばを使ってリマインダーをセットしてもらいましょう
+
+![06](https://fffuture.work/dogreminder/images/06.png)
 
 ![Demo03](https://fffuture.work/dogreminder/images/demo03.gif)
 
