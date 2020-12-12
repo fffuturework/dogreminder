@@ -22,12 +22,11 @@
 
 さぁあなたも Dog reminderを始めてみませんか
 
-# 使い方
+# そんなあなたに Dog reminder あなたにかわってリマインダーを相手に送ります
 
-![DEMO](https://freddiefujiwara.com/Osaifu-Minimalist/images/demo.gif)
+![03](https://fffuture.work/dogreminder/images/03.png)
 
-
-# インストール方法
+# はじめかた
 下記のQRコードを携帯電話で読み込むか　もしくは　[こちらのリンク](https://freddiefujiwara.com/jpy_minimize_your_change/) にアクセスしてください
 
 ![QRCode](https://freddiefujiwara.com/Osaifu-Minimalist/images/IMG_8695.jpg)
