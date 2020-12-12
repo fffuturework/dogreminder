@@ -1,3 +1,4 @@
+![logo](https://fffuture.work/dogreminder/images/logo.jpg)
 # こんなことはありませんか
 
 「予定を調整したいので、調整さんに入力おねがいします」
@@ -7,6 +8,8 @@
 「宿題やったの？」
 
 「ゴミ出し忘れないでね」
+
+![01](https://fffuture.work/dogreminder/images/01.png)
 
 # そんなときは!
 Dog reminder
