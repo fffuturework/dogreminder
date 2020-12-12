@@ -13,8 +13,10 @@
 
 ![01](https://fffuture.work/dogreminder/images/01.png)
 
-# そんなときは!
-Dog reminder
+# LINEで友だちになって、リマインドおくればいいけど。。。
+
+![01](https://fffuture.work/dogreminder/images/01.png)
+
 
 これでもう，お願いした人が締切りや予定を忘れることはありません。
 
