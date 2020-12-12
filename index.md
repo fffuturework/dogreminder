@@ -38,19 +38,19 @@
 
 ![Demo01](https://fffuture.work/dogreminder/images/demo01.gif)
 
-## iPhoneをお使いの方
+# リマインダーをつくり、あいことばを'あいて'におくりましょう
 
-![iPhoneをお使いの方](https://freddiefujiwara.com/Osaifu-Minimalist/images/iphone.gif)
+![Demo02](https://fffuture.work/dogreminder/images/demo02.gif)
 
-## スマホ(Android)をお使いの方
 
-![スマホ(Android)をお使いの方](https://freddiefujiwara.com/Osaifu-Minimalist/images/android.gif)
+# あいてに、あいことばを使ってリマインダーをセットしてもらいましょう
 
+![Demo03](https://fffuture.work/dogreminder/images/demo03.gif)
 
 
 # お問い合わせ、問題など
 
-お問い合わせ、問題、ご要望などは　[こちら](https://github.com/freddiefujiwara/jpy_minimize_your_change/issues) まで!
+お問い合わせ、問題、ご要望などは　[こちら](https://github.com/fffuturework/dogreminder/issues/new) まで!
 
 # ライセンス
 
