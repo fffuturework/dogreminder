@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# LINEでかんたんワンタイムリマインダーを送れるbot Dog reminder
+![logo](https://fffuture.work/dogreminder/images/logo.jpg)
 
-You can use the [editor on GitHub](https://github.com/fffuturework/dogreminder/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# こんなことはありませんか
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+「予定を調整したいので、調整さんに入力おねがいします」
 
-### Markdown
+「まだ入力してないみたいですが、早急にお願いします」
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+「宿題やったの？」
 
-```markdown
-Syntax highlighted code block
+「ゴミ出し忘れないでね」
 
-# Header 1
-## Header 2
-### Header 3
+![01](https://fffuture.work/dogreminder/images/01.png)
 
-- Bulleted
-- List
+# LINEで友だちになって、リマインドおくればいいけど。。。
 
-1. Numbered
-2. List
+![02](https://fffuture.work/dogreminder/images/02.png)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+これでもう，お願いした人が締切りや予定を忘れることはありません。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+さぁあなたも Dog reminderを始めてみませんか
 
-### Jekyll Themes
+# そんなあなたに Dog reminder あなたにかわってリマインダーを相手に送ります
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fffuturework/dogreminder/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![03](https://fffuture.work/dogreminder/images/03.png)
 
-### Support or Contact
+# はじめかた
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![04](https://fffuture.work/dogreminder/images/04.png)
+
+"あなた"と"あいて"両方 Dog reminder　とLINEで友達になってください
+
+![QRCode](https://qr-official.line.me/sid/L/712korsz.png)
+
+具体的には下記の動画を御覧ください
+
+![Demo01](https://fffuture.work/dogreminder/images/demo01.gif)
+
+# リマインダーをつくり、あいことばを'あいて'におくりましょう
+
+![Demo02](https://fffuture.work/dogreminder/images/demo02.gif)
+
+
+# あいてに、あいことばを使ってリマインダーをセットしてもらいましょう
+
+![Demo03](https://fffuture.work/dogreminder/images/demo03.gif)
+
+# 時間になるとDog reminderから'あいて'に通知が行きます
+
+![Demo04](https://fffuture.work/dogreminder/images/demo04.gif)
+
+# Dog reminder　の話しかけかた
+
+|  話しかける言葉|  どういうときに使う? |
+| ---- | ---- |
+|  つくりたい|  リマインダーを作りたいとき|
+|  つくったもの|  じぶんがつくったリマインダーを確認したいとき|
+|  わたしあて|  あなたあてのリマインダーを確認したいとき|
+
+# お問い合わせ、問題など
+
+お問い合わせ、問題、ご要望などは　[こちら](https://github.com/fffuturework/dogreminder/issues/new) まで!
+
+# ライセンス
+
+[MIT License](https://github.com/freddiefujiwara/jpy_minimize_your_change/blob/main/LICENSE)
