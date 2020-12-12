@@ -47,6 +47,10 @@
 
 ![Demo03](https://fffuture.work/dogreminder/images/demo03.gif)
 
+# 時間になるとDog reminderから'あいて'に通知が行きます
+
+![Demo04](https://fffuture.work/dogreminder/images/demo04.gif)
+
 
 # お問い合わせ、問題など
 
