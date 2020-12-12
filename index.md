@@ -28,11 +28,15 @@
 
 # はじめかた
 
+![04](https://fffuture.work/dogreminder/images/04.png)
+
 "あなた"と"あいて"両方 Dog reminder　とLINEで友達になってください
 
 ![QRCode](https://qr-official.line.me/sid/L/712korsz.png)
 
 具体的には下記の動画を御覧ください
+
+![Demo01](https://fffuture.work/dogreminder/images/demo01.gif)
 
 ## iPhoneをお使いの方
 
